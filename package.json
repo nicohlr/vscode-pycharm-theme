@@ -1,0 +1,55 @@
+{
+    "name": "pycharm",
+    "displayName": "PyCharm Theme",
+    "description": "Pycharm's Darcula inspired set of themes for VSCode",
+    "publisher": "nicohlr",
+    "version": "0.0.1",
+    "license": "MIT",
+    "icon": "icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nicohlr/vscode-pycharm-theme"
+    },
+    "bugs": {
+        "url": "https://github.com/nicohlr/vscode-theme-harmony/issues"
+    },
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pycharm Original Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pycharm-original-color-theme.json"
+            },
+            {
+                "label": "PyCharm Dark Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pycharm-dark-color-theme.json"
+            },
+            {
+                "label": "PyCharm Night Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pycharm-night-color-theme.json"
+            }
+        ]
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "pycharm",
+        "darcula",
+        "jetbrains"
+    ],
+    "badges": [
+		{
+			"url": "https://vsmarketplacebadge.apphb.com/version/nicohlr.pycharm.svg",
+			"href": "https://marketplace.visualstudio.com/items/nicohlr.pycharm",
+			"description": "Extension version"
+        }
+    ]
+}
