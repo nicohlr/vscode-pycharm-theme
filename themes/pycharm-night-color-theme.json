@@ -24,6 +24,7 @@
 		"debugIcon.stepOverForeground": "#ff7a84",
 		"debugIcon.stopForeground": "#79b8ff",
 		"editor.background": "#1f1f1f",
+		"editor.foreground": "#A9B7C6",
 		"editor.lineHighlightBorder": "#303030",
 		"editorGroupHeader.tabsBackground": "#1a1a1a",
 		"editorGroupHeader.tabsBorder": "#1a1a1a",
