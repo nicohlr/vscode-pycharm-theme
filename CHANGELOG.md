@@ -2,6 +2,10 @@
 
 All notable changes to the PyCharm Theme extension will be documented in this file.
 
+## 0.0.3
+
+- Add Markdown support
+
 ## 0.0.2
 
 - Reset to default peekview editor background color for Original theme

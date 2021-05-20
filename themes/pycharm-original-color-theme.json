@@ -649,5 +649,162 @@
 				"foreground": "#A9B7C6"
 			}
 		},
+		{
+			"scope": [
+				"text.html.markdown markup.heading",
+				"text.html.markdown markup.heading.setext"
+			],
+			"settings": {
+				"foreground": "#9876AA"
+			}
+		},
+		{
+			"scope": [
+				"text.html.markdown meta.paragraph meta.link.inet markup.underline.link",
+				"text.html.markdown meta.link.inline string"
+			],
+			"settings": {
+				"foreground": "#287BDE"
+			}
+		},
+		{
+			"scope": [
+				"text.html.markdown meta.link.reference constant.other.reference"
+			],
+			"settings": {
+				"foreground": "#CC7832"
+			}
+		},
+		{
+			"scope": [
+				"text.html.markdown meta.link.reference punctuation.definition.constant"
+			],
+			"settings": {
+				"foreground": "#CC7832",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": [
+				"text.html.markdown meta.link.inet punctuation"
+			],
+			"settings": {
+				"foreground": "#287BDE"
+			}
+		},
+		{
+			"scope": [
+				"text.html.markdown meta.link.inline punctuation.definition.metadata"
+			],
+			"settings": {
+				"foreground": "#CC7832",
+				"fontStyle": "italic bold"
+			}
+		},
+		{
+			"scope": [
+				"text.html.markdown meta.link.inline punctuation.definition.string"
+			],
+			"settings": {
+				"foreground": "#287BDE"
+			}
+		},
+		{
+			"scope": [
+				"text.html.markdown meta.paragraph meta.link.reference punctuation.definition.string"
+			],
+			"settings": {
+				"foreground": "#287BDE"
+			}
+		},
+		{
+			"scope": [
+				"text.html.markdown meta.link.reference markup.underline.link"
+			],
+			"settings": {
+				"foreground": "#E8BF6A",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"text.html.markdown meta.link.inline markup.underline.link"
+			],
+			"settings": {
+				"foreground": "#E8BF6A",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"text.html.markdown meta.link.reference string.other.link.description.title"
+			],
+			"settings": {
+				"foreground": "#808080",
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": [
+				"text.html.markdown meta.link.reference string.other.link.title",
+				"text.html.markdown meta.reference.link.inline",
+				"text.html.markdown meta.reference.link constant.other"
+			],
+			"settings": {
+				"foreground": "#287BDE"
+			}
+		},
+		{
+			"scope": [
+				"text.html.markdown punctuation.definition.bold",
+				"text.html.markdown punctuation.definition.italic"
+			],
+			"settings": {
+				"foreground": "#CC7832"
+			}
+		},
+		{
+			"scope": [
+				"text.html.markdown markup.fenced_code.block",
+				"text.html.markdown markup.raw.block",
+				"text.html.markdown markup.inline.raw"
+			],
+			"settings": {
+				"foreground": "#808080"
+			}
+		},
+		{
+			"scope": [
+				"text.html.markdown markup.quote",
+				"text.html.markdown markup.quote meta.paragraph",
+				"text.html.markdown markup.quote heading"
+			],
+			"settings": {
+				"foreground": "#6A8759",
+				"fontStyle": ""
+			}
+		},
+		{
+			"scope": [
+				"text.html.markdown beginning.punctuation.definition.quote"
+			],
+			"settings": {
+				"foreground": "#608B4E"
+			}
+		},
+		{
+			"scope": [
+				"text.html.markdown beginning.punctuation.definition.list"
+			],
+			"settings": {
+				"foreground": "#6796E6"
+			}
+		},
+		{
+			"scope": "punctuation.definition.list.begin.markdown",
+			"settings": {
+				"foreground": "#9876AA"
+			}
+		},
 	]
 }
