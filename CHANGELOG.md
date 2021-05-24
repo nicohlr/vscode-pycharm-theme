@@ -2,6 +2,11 @@
 
 All notable changes to the PyCharm Theme extension will be documented in this file.
 
+## 0.0.4
+
+- Improve Markdown support
+- Change some colors in "Original" theme to match Pycharm colors
+
 ## 0.0.3
 
 - Add Markdown support

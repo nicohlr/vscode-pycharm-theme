@@ -33,11 +33,11 @@
 		"input.border": "#646464",
 		"input.foreground": "#bbbbbb",
 		"list.activeSelectionForeground": "#adadad",
-		"list.activeSelectionBackground": "#2F65CA",
+		"list.activeSelectionBackground": "#2B62CD",
 		"list.dropBackground": "#474b4d",
-		"list.focusBackground": "#2F65CA",
+		"list.focusBackground": "#2B62CD",
 		"list.hoverBackground": "#313335",
-		"list.inactiveSelectionBackground": "#0d293e",
+		"list.inactiveSelectionBackground": "#0B293F",
 		"list.errorForeground": "#bbbbbb",
 		"list.warningForeground": "#bbbbbb",
 		"menu.background": "#3c3f41",
@@ -63,7 +63,7 @@
 		"statusBar.noFolderBorder": "#464646",
 		"statusBar.noFolderForeground": "#bbbbbb",
 		"tab.activeBackground": "#515658",
-		"tab.activeBorder": "#4b6eaf",
+		"tab.activeBorder": "#4787C9",
 		"tab.border": "#323232",
 		"tab.hoverBackground": "#27292a",
 		"tab.inactiveBackground": "#3c3f41",
@@ -655,7 +655,8 @@
 				"text.html.markdown markup.heading.setext"
 			],
 			"settings": {
-				"foreground": "#9876AA"
+				"foreground": "#599DF6",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -664,7 +665,8 @@
 				"text.html.markdown meta.link.inline string"
 			],
 			"settings": {
-				"foreground": "#287BDE"
+				"foreground": "#9876AA",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -689,7 +691,8 @@
 				"text.html.markdown meta.link.inet punctuation"
 			],
 			"settings": {
-				"foreground": "#287BDE"
+				"foreground": "#9876AA",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -706,7 +709,8 @@
 				"text.html.markdown meta.link.inline punctuation.definition.string"
 			],
 			"settings": {
-				"foreground": "#287BDE"
+				"foreground": "#9876AA",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -714,7 +718,8 @@
 				"text.html.markdown meta.paragraph meta.link.reference punctuation.definition.string"
 			],
 			"settings": {
-				"foreground": "#287BDE"
+				"foreground": "#9876AA",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -751,7 +756,8 @@
 				"text.html.markdown meta.reference.link constant.other"
 			],
 			"settings": {
-				"foreground": "#287BDE"
+				"foreground": "#9876AA",
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -765,7 +771,6 @@
 		},
 		{
 			"scope": [
-				"text.html.markdown markup.fenced_code.block",
 				"text.html.markdown markup.raw.block",
 				"text.html.markdown markup.inline.raw"
 			],
@@ -799,12 +804,6 @@
 			"settings": {
 				"foreground": "#6796E6"
 			}
-		},
-		{
-			"scope": "punctuation.definition.list.begin.markdown",
-			"settings": {
-				"foreground": "#9876AA"
-			}
-		},
+		}
 	]
 }
