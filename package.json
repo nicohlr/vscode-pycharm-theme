@@ -3,7 +3,7 @@
     "displayName": "PyCharm Theme",
     "description": "Pycharm's Darcula inspired set of themes for VSCode",
     "publisher": "nicohlr",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "license": "MIT",
     "icon": "icon.png",
     "repository": {
@@ -35,6 +35,11 @@
                 "label": "PyCharm Night Theme",
                 "uiTheme": "vs-dark",
                 "path": "./themes/pycharm-night-color-theme.json"
+            },
+            {
+                "label": "PyCharm Dark+ Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/pycharm-darkplus-color-theme.json"
             }
         ]
     },

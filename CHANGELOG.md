@@ -2,6 +2,10 @@
 
 All notable changes to the PyCharm Theme extension will be documented in this file.
 
+## 0.0.5
+
+- Add Pycharm Dark+ theme: a mix between Pycharm and vscode's Dark+ theme. 
+
 ## 0.0.4
 
 - Improve Markdown support
