@@ -2,6 +2,11 @@
 
 All notable changes to the PyCharm Theme extension will be documented in this file.
 
+## 0.0.6
+
+- Reset to default peekview editor background color for Dark theme
+- Fix syntax coloring in ipynb files for Dark+ theme
+
 ## 0.0.5
 
 - Add Pycharm Dark+ theme: a mix between Pycharm and vscode's Dark+ theme. 

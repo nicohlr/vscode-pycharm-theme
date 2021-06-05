@@ -11,6 +11,9 @@
 **PyCharm Night Theme**
 ![](https://raw.githubusercontent.com/nicohlr/vscode-pycharm-theme/main/screenshots/night.png)
 
+**PyCharm Night Theme**
+![](https://raw.githubusercontent.com/nicohlr/vscode-pycharm-theme/main/screenshots/darkplus.png)
+
 ## Inspiration
 
 These themes are inspired by the following vscode themes :
