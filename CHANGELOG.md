@@ -2,6 +2,10 @@
 
 All notable changes to the PyCharm Theme extension will be documented in this file.
 
+## 0.0.7
+
+- Delete warning and error foreground for Dark+ theme
+
 ## 0.0.6
 
 - Reset to default peekview editor background color for Dark theme

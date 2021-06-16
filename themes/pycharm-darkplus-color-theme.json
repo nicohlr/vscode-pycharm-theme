@@ -11,6 +11,8 @@
 		"editorIndentGuide.background": "#404040",
 		"input.placeholderForeground": "#a6a6a6",
 		"list.dropBackground": "#383b3d",
+		"list.errorForeground": "#cccccc",
+		"list.warningForeground": "#cccccc",
 		"menu.background": "#252526",
 		"menu.foreground": "#cccccc",
 		"ports.iconRunningProcessForeground": "#369432",
