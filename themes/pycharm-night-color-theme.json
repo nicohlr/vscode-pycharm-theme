@@ -49,6 +49,8 @@
 		"list.inactiveSelectionBackground": "#212121",
 		"list.inactiveSelectionForeground": "#f5f5f5",
 		"list.warningForeground": "#7d7d7d",
+		"notebook.focusedCellBorder": "#333333",
+		"notebook.focusedEditorBorder": "#333333",
 		"panelTitle.activeBorder": "#1f1f1f",
 		"panelTitle.activeForeground": "#fafafa",
 		"panelTitle.inactiveForeground": "#484848",

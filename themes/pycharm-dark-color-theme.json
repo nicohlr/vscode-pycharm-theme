@@ -89,6 +89,8 @@
 		"menubar.selectionBackground": "#3b3e41",
 		"minimap.findMatchHighlight": "#007acc",
 		"minimap.selectionHighlight": "#00000099",
+		"notebook.focusedCellBorder": "#007fd4",
+		"notebook.focusedEditorBorder": "#007fd4",
 		"panel.background": "#1e2123",
 		"panel.border": "#313437",
 		"panelTitle.activeBorder": "#00000000",
