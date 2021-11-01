@@ -3,16 +3,16 @@
 [![Marketplace](https://vsmarketplacebadge.apphb.com/version/nicohlr.pycharm.svg)](https://marketplace.visualstudio.com/items/nicohlr.pycharm)
 
 **PyCharm Original Theme**
-![](https://raw.githubusercontent.com/nicohlr/vscode-pycharm-theme/main/screenshots/original.png)
+![](https://raw.githubusercontent.com/nicohlr/vscode-pycharm-theme/main/screenshots/pycharm-original.png)
 
 **PyCharm Dark Theme**
-![](https://raw.githubusercontent.com/nicohlr/vscode-pycharm-theme/main/screenshots/dark.png)
+![](https://raw.githubusercontent.com/nicohlr/vscode-pycharm-theme/main/screenshots/pycharm-dark.png)
 
 **PyCharm Night Theme**
-![](https://raw.githubusercontent.com/nicohlr/vscode-pycharm-theme/main/screenshots/night.png)
+![](https://raw.githubusercontent.com/nicohlr/vscode-pycharm-theme/main/screenshots/pycharm-night.png)
 
 **PyCharm Dark+ Theme**
-![](https://raw.githubusercontent.com/nicohlr/vscode-pycharm-theme/main/screenshots/darkplus.png)
+![](https://raw.githubusercontent.com/nicohlr/vscode-pycharm-theme/main/screenshots/pycharm-darkplus.png)
 
 ## Inspiration
 

@@ -2,6 +2,10 @@
 
 All notable changes to the PyCharm Theme extension will be documented in this file.
 
+## 0.0.9
+
+- Fix syntax highlighting in Jenkinsfile (related issue: https://github.com/nicohlr/vscode-pycharm-theme/issues/2)
+
 ## 0.0.8
 
 - Adapt themes for new notebook interface

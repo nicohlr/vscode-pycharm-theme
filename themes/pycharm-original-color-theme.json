@@ -808,6 +808,14 @@
 			"settings": {
 				"foreground": "#6796E6"
 			}
+		},
+		{
+			"scope": [
+				"source.groovy.embedded"
+			],
+			"settings": {
+				"foreground": "#A9B7C6"
+			}
 		}
 	]
 }
