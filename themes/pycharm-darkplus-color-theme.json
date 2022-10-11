@@ -37,7 +37,7 @@
 			}
 		},
 		{
-			"scope": ["comment.line", "punctuation.definition.comment.python"],
+			"scope": ["comment", "punctuation.definition.comment.python"],
 			"settings": {
 				"foreground": "#808080"
 			}
