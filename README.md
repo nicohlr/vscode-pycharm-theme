@@ -1,6 +1,8 @@
 # PyCharm Theme for VSCode
 
-[![Marketplace](https://vsmarketplacebadge.apphb.com/version/nicohlr.pycharm.svg)](https://marketplace.visualstudio.com/items/nicohlr.pycharm)
+[![Marketplace](https://vsmarketplacebadge.apphb.com/version/nicohlr.pycharm.svg)](https://marketplace.visualstudio.com/items/nicohlr.pycharm) [![Marketplace](https://vsmarketplacebadge.apphb.com/installs/nicohlr.pycharm.svg)](https://marketplace.visualstudio.com/items/nicohlr.pycharm)
+
+
 
 **PyCharm Original Theme**
 ![](https://raw.githubusercontent.com/nicohlr/vscode-pycharm-theme/main/screenshots/pycharm-original.png)
@@ -20,3 +22,4 @@ These themes are inspired by the following vscode themes :
 
 - [Darcula PyCharm Theme (original by garytyler)](https://github.com/garytyler/vscode-darcula-pycharm-theme)
 - [Darcula PyCharm Theme (malvery's fork)](https://github.com/malvery/vscode-darcula-pycharm-theme)
+- [Darcula PyCharm Theme (Bobronium's fork)](https://github.com/Bobronium/vscode-pycharm-darcula-theme)

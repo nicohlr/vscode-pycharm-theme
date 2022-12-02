@@ -2,6 +2,13 @@
 
 All notable changes to the PyCharm Theme extension will be documented in this file.
 
+## 0.0.10
+
+- Fix syntax highlighting for Python format (f-string) string and raw (r-string) string.
+- Fix comment token only for comment.line (allows block comments)
+- Fix syntax highlighting for special methods in Python
+- Match comma highlighting of Pycharm
+
 ## 0.0.9
 
 - Fix syntax highlighting in Jenkinsfile (related issue: https://github.com/nicohlr/vscode-pycharm-theme/issues/2)
